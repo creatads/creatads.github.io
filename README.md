@@ -1,8 +1,6 @@
 ## Олег Федотов
 
-***
-
-[Урок 2](https://github.com/creatads/lesson-2 "https://github.com/creatads/lesson-2")
+[Урок 2](https://github.com/creatads/lesson-2 "https://github.com/creatads/lesson-2") Работа с графикой
 
 [Урок 3](https://github.com/creatads/lesson-3 "https://github.com/creatads/lesson-3")
 
