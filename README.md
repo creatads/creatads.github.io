@@ -18,3 +18,5 @@
 
 [Урок 11 ](https://github.com/creatads/lesson-11 "https://github.com/creatads/lesson-11") Сниппеты 
 
+[Урок 12 ](https://github.com/creatads/lesson-13 "https://github.com/creatads/lesson-13") Адаптивная верстка 
+
