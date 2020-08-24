@@ -24,3 +24,6 @@
 
 [Урок 14 ](https://github.com/creatads/lesson-14 "https://github.com/creatads/lesson-14") Подключение шрифтов
 
+[Практика two ](https://github.com/creatads/praktika-two "https://github.com/creatads/praktika-two") Подключение шрифтов. Верстка первого экрана.
+
+
