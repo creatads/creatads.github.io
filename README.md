@@ -28,3 +28,4 @@
 
 [Урок 15 ](https://github.com/creatads/lesson-15 "https://github.com/creatads/lesson-15") Псевдоклассы и псевдоэлементы
 
+[Модуль 5. Практика. Часть 3 ](https://github.com/creatads/praktika-3 "https://github.com/creatads/praktika-3") Эффекты при наведении и адаптив первого экрана
