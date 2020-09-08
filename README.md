@@ -31,3 +31,5 @@
 [Модуль 5. Практика. Часть 3 ](https://github.com/creatads/praktika-3 "https://github.com/creatads/praktika-3") Эффекты при наведении и адаптив первого экрана
 
 [Урок 16 ](https://github.com/creatads/lesson-16 "https://github.com/creatads/lesson-16") Слайдер на сайте 
+
+[Урок 16 ](https://github.com/creatads/lesson-17 "https://github.com/creatads/lesson-17") Всплывающие окна
