@@ -38,4 +38,4 @@
 
 [Модуль 5. Практика. Часть 5 ](https://github.com/creatads/praktika-3 "https://github.com/creatads/praktika-3") Верстка всплывающих окон на сайте
 
-
+[Урок 18 ](https://github.com/creatads/lesson-18 "https://github.com/creatads/lesson-18") Табы и аккордеон на сайте
