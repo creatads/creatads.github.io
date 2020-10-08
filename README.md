@@ -40,4 +40,10 @@
 
 [Урок 18 ](https://github.com/creatads/lesson-18 "https://github.com/creatads/lesson-18") Табы и аккордеон на сайте
 
+[Модуль 5. Практика. Часть 6 ](https://github.com/creatads/praktika-3 "https://github.com/creatads/praktika-3") Верстка блока с ценами
+
 [Урок 19 ](https://github.com/creatads/lesson-18 "https://github.com/creatads/lesson-18") Анимация на CSS3
+
+[Модуль 6. Практика. Часть 7](https://github.com/creatads/praktika-3 "https://github.com/creatads/praktika-3") Верстка блока с отзывами
+
+
