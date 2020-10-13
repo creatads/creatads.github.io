@@ -46,4 +46,4 @@
 
 [Модуль 6. Практика. Часть 7](https://github.com/creatads/praktika-3 "https://github.com/creatads/praktika-3") Верстка блока с отзывами
 
-
+[Урок 20 ](https://github.com/creatads/lesson-20 "https://github.com/creatads/lesson-18")Видео-фон на сайте
