@@ -50,3 +50,5 @@
 
 [Модуль 6. Практика. Часть 8](https://github.com/creatads/praktika-3 "https://github.com/creatads/praktika-3") Доверстали блок с отзывами
 
+[Урок 21 ](https://github.com/creatads/lesson-21 "https://github.com/creatads/lesson-21")Parallax эффект для сайта.
+
