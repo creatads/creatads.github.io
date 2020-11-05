@@ -52,3 +52,4 @@
 
 [Урок 21 ](https://github.com/creatads/lesson-21 "https://github.com/creatads/lesson-21")Parallax эффект для сайта.
 
+[Модуль 6. Практика. Часть 9](https://github.com/creatads/praktika-3 "https://github.com/creatads/praktika-3") Сверстать 2 блока (схема работы и все включено)
