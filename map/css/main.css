@@ -1,0 +1,70 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin:0;
+	padding: 0;
+    overflow-x:hidden; 
+}
+h3 {
+    font-size: 3rem;
+    line-height: 34px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+.contact {
+    background-color: #c60b0b;
+    width: 25%;
+    height: 450px;
+    padding: 4rem 3.5rem 4rem 3.5rem;
+}
+.map {
+    width: 100%;
+    float:right;
+    display: flex;
+}
+.yan-map {
+    width: 75%;
+}
+.footer {
+    width: 100%;
+}
+.col-md-3 {
+    padding-left: 0;
+}
+
+.logo img {
+    float:left;
+}
+
+.logo p {
+    font-size: 1.4rem;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+}
+
+.footer-text p {
+    font-size: 1.2rem;
+    color: #666666;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    padding-top: 0.5rem;
+}
+.footer-phone p {
+    font-size: 1.2rem;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    text-align: right;
+}
