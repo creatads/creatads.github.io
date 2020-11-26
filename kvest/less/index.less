@@ -1,0 +1,118 @@
+/* fonts*/
+@font-face {
+    font-family: 'DALTON_MAAG_BOLD';
+    src: url('../fonts/DALTON_MAAG_-_EFFRA_BOLD.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DALTON_MAAG_MEDIUM';
+    src: url('../fonts/DALTON_MAAG_-_EFFRA_MEDIUM.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.bold() {
+	font-family: 'ProximaNova_Bold', sans-serif;
+}
+.reg() {
+	font-family: 'ProximaNova_Reg', sans-serif;
+}
+
+/* colors */
+@text-medium:'DALTON_MAAG_MEDIUM';
+@text-bold:'DALTON_MAAG_BOLD';
+@text-size: 1.8rem;
+@text-size-p:1.4rem;
+@text-height: uppercase;
+
+/* basic settings */
+html {
+	font-style: 10px;
+}
+main {
+	background-image: url(../img/main.png);
+	height: 100vh;
+    background-size: cover;
+    background-position: right bottom;
+    text-align: center;
+}
+
+.zakaz img {
+	margin-top: 9rem;
+	width: auto;
+}
+
+.viborg img {
+	margin-top: 4rem;
+	width: auto;
+}
+
+.uznat img {
+	margin-top: 5rem;
+	width: auto;
+}
+
+.modal-header .close {
+	margin: 0;
+	padding: 0;
+}
+
+	p {
+		font-family: @text-medium;
+		font-size: @text-size-p;
+		margin-bottom: 1rem;
+		text-transform: @text-height;
+	}
+
+.about {
+	background-color: #FFFFFF;
+	margin-top: 7rem;
+	margin-bottom: 5rem;
+	strong {
+		font-family: @text-bold;
+		font-size: @text-size;
+	}
+	h2 {
+		font-weight:500;
+		font-size:1.5rem;
+		margin-bottom: 0rem;
+	}
+}
+
+.img-kvest {
+	margin-bottom: 5rem;
+}
+.our-kvest {
+	margin-bottom: 5rem;
+	p {
+		margin-bottom: 2rem;
+		margin-top: 2rem;
+		text-align: center;
+		font-weight: 700;
+	}
+}
+
+@media (max-width: 991px) {
+	.viborg img {
+		width: 100%;
+	}
+}
+
+@media (max-width: 767px) {
+	.viborg img {
+		width: 75%;
+		margin-top: 1rem;
+	}
+	.zakaz img {
+		margin-top: 1rem;
+	}
+	.uznat img {
+		margin-top: 1rem;
+	}
+	.col-sm-12 {
+		text-align: center;
+	}
+}
