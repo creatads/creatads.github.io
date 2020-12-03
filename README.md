@@ -56,3 +56,6 @@
 
 [Урок 22 ](https://github.com/creatads/creatads.github.io/tree/master/map "https://github.com/creatads/creatads.github.io/tree/master/map")Гео-карты для сайта.
 
+[Модуль 6. Практика. Часть 10](https://github.com/creatads/praktika-3 "https://github.com/creatads/praktika-3") Верстаем блок "Развеиваем сомнения"
+
+
